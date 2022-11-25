@@ -7,6 +7,6 @@
 * [Ion Luca-Mihail](https://github.com/lucaion)
 * [Stancu Denisa](https://github.com/StancuDenisaG)
 
-## Project Requirements and Backlog
+## Product Presentation
 
 * [GitHub Wiki Page](https://github.com/tavi22/Reseller-Web/wiki)

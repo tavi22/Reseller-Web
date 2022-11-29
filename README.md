@@ -3,9 +3,9 @@
  
 ## Team Members
 
-* [Mitrică Octavian](https://github.com/tavi22)
-* [Ion Luca-Mihail](https://github.com/lucaion)
-* [Stancu Denisa](https://github.com/StancuDenisaG)
+* [Mitric Octavian](https://github.com/tavi22)
+* [Luca-Mihail Ion](https://github.com/lucaion)
+* [Denisa-Georgiana Stancu](https://github.com/StancuDenisaG)
 
 ## Product Presentation
 

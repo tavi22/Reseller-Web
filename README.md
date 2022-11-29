@@ -3,7 +3,7 @@
  
 ## Team Members
 
-* [Mitric Octavian](https://github.com/tavi22)
+* [Mitrica Octavian](https://github.com/tavi22)
 * [Luca-Mihail Ion](https://github.com/lucaion)
 * [Denisa-Georgiana Stancu](https://github.com/StancuDenisaG)
 
